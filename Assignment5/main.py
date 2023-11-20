@@ -1,7 +1,7 @@
 # Code 1
 if 10 > 5:
 print("Ten is greater than five!")
-#It gives error because of absence of the identation in the third line. Below the correct rewrited code snippet.
+#It gives an error because of the absence of the indentation in the third line. Below the correct rewrited code snippet.
 if 10>5:
     print ("Ten is greater than five!")
 
@@ -18,11 +18,11 @@ if a > b:
     print("a is greater than b")
 else:
     print("b is greater than a")
-# The Code 3 snippet is correct as in each blocks the print lines have identations. 
+# The Code 3 snippet is correct as in each blocks the print lines have indentations. 
 
 """
 Indentation is a very important concept in Python because it defines the grouping of codes. 
 True indentation is necessary to avoid syntax errors and ensure code works correctly. 
-Unlike other programming languages that use curly braces, parentheses, or keywords to separate blocks of code, 
-Python uses indentation to highlight them. This approach make a code easy to read and simplifies code structure.
+Other programming languages use curly braces or keywords to separate blocks of code, where
+Python uses indentation to highlight them. This approach makes a code easy to read and simplifies code structure.
 """
