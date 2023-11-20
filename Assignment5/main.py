@@ -1,7 +1,5 @@
 # Code 1
-if 10 > 5:
-print("Ten is greater than five!")
-#It gives an error because of the absence of the indentation in the third line. Below the correct rewrited code snippet.
+#An error occurs because of the absence of the indentation in the third line. Below the correct rewrited code snippet.
 if 10>5:
     print ("Ten is greater than five!")
 
