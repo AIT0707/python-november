@@ -1,5 +1,5 @@
 # Code 1
-#An error occurs because of the absence of the indentation in the third line. Below the correct rewrited code snippet.
+#An error occurs because of the absence of the indentation before print. Below the correct rewrited code snippet.
 if 10>5:
     print ("Ten is greater than five!")
 
