@@ -23,7 +23,7 @@
     - Validate user inputs for indices to prevent errors.
     - Handle cases where users enter invalid indices or attempt to remove tasks from an empty list.
 """
-organizer = [] # List ot store tasks
+organizer = [] # List to store tasks
 
 def add_task():
     task = input("Add new task: ")
